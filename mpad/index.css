@@ -1,0 +1,41 @@
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ 	box-sizing: border-box;
+ }
+
+ .slider{
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 	width: 100%;
+ 	height: 100vh;
+ 	background-color: #3C3668;
+ 	z-index: -1;
+
+ }
+ nav{
+ 	margin-top: 1%;
+ 	text-align: center;
+ 	min-height: 10vh;
+ 	color: purple;
+ 	font-family: 
+ }
+
+ section{
+ 	display:flex;
+ 	height:80vh;
+ 	justify-content: center;
+ 	align-items: center;
+ }
+ .main{
+ 	height: 90%;
+ 	width: 100%;
+ 	text-align: center;
+ }
+ .main img{
+ 	width:100%;
+ 	height: 100%;
+ 	object-fit: cover;
+ }
+ 
